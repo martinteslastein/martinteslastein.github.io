@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "martinteslastein",
-    "repositoryName": "martinteslastein.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"martinteslastein","repositoryName":"martinteslastein.github.io","branch":"master","cname":""},"site":{"title":"Martin Tesla Stein","description":"Some post's from a weird lost person.","url":"https://martinteslastein.github.io"},"socialnetwork":{"email":"martinteslastein@gmail.com"},"theme":{"name":"Casper","url":"https://martinteslastein.github.io/themes/Casper"}}
